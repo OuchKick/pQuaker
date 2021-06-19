@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/adam-reed1/">
     <img alt="My Linkedin" src="https://img.shields.io/badge/Adam Reed-%230077B5?style=social&logo=linkedin">
   </a>
+  <a href="https://www.linkedin.com/in/lucas14/">
+    <img alt="My Linkedin" src="https://img.shields.io/badge/Lucas Quatorze-%230077B5?style=social&logo=linkedin">
+  </a>
 </p>
 
 ___
@@ -69,3 +72,4 @@ This project is using an MIT license. Click here [LICENSE](LICENSE) for more det
 ### Contributors
 Jose Rivera : https://github.com/sournachos  
 Adam Reed : https://github.com/OuchKick  
+Lucas Quatorze : https://github.com/lucas1496 
