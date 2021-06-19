@@ -1,13 +1,13 @@
 <p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sournachos/pQuaker">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/OuchKick/pQuaker">
   <img src="https://img.shields.io/badge/node-%3E%3D%2010.0.0-brightgreen">
   <img src="https://img.shields.io/badge/website-up-brightgreen">
-  <img src="https://img.shields.io/github/issues/sournachos/pQuaker">
-  <img src="https://img.shields.io/github/issues-closed-raw/sournachos/pQuaker">
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/sournachos/pQuaker">
+  <img src="https://img.shields.io/github/issues/OuchKick/pQuaker">
+  <img src="https://img.shields.io/github/issues-closed-raw/OuchKick/pQuaker">
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/OuchKick/pQuaker">
   </br>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sournachos/pQuaker">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sournachos/pQuaker">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/OuchKick/pQuaker">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/OuchKick/pQuaker">
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
