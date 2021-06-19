@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/adam-reed1/">
     <img alt="My Linkedin" src="https://img.shields.io/badge/Adam Reed-%230077B5?style=social&logo=linkedin">
   </a>
-  <a href="https://www.linkedin.com/in/lucas14/">
+  <a href="https://www.linkedin.com/in/lucas-14/">
     <img alt="My Linkedin" src="https://img.shields.io/badge/Lucas Quatorze-%230077B5?style=social&logo=linkedin">
   </a>
 </p>
